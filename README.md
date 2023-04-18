@@ -3,4 +3,4 @@
 - 👀 I’m really interested in photography
 - 🌱 I’m currently learning HTML, CSS, JS and Java.
 - 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me @b.nilsoon
+- 📫 How to reach me on Instagram @b.nilsoon
