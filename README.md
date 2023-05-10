@@ -1,5 +1,5 @@
 ## 👋 Hey, I’m @BernardoNilson! Nice to meet you!
-- 📚 Nowdays, I'm studyng Computer Science at PUCRS
+- 📚 Currently, I'm studyng Computer Science at PUCRS
 - 🌱 Also, focusing in these tools:
  <p>
       
