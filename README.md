@@ -1,7 +1,7 @@
 ## 👋 Hey, I’m @BernardoNilson! Nice to meet you!
 
 - 📚 Currently, I'm studyng Computer Science at PUCRS
-- 💻 Also, I work as an intern in a High Performance Computing lab
+- 💻 Also, I work as an intern at High Performance Computing lab
 - 💞️ I’m looking to collaborate on amazing projects
 
 ### Connect with me
