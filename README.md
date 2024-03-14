@@ -1,7 +1,8 @@
 ## 👋 Hey, I’m @BernardoNilson! Nice to meet you!
 
 - 📚 Currently, I'm studyng Computer Science at PUCRS
-- 💻 Also, I work as an intern at High Performance Computing lab
+- 🤖 IFRS / FAPERGS Undergraduate Researcher conducting research on Robotics and Artificial Intelligence in peripheral zones
+- 💻 Also, I work as intern at LabLAD (PUCRS Ideia), High Performance Computing lab
 - 💞️ I’m looking to collaborate on amazing projects
 
 ### Connect with me
